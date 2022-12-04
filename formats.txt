@@ -1,0 +1,8 @@
+jpg
+png
+gif
+tiff
+web
+webm
+webp
+heic
